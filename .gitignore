@@ -1,0 +1,6 @@
+/venv/
+config.py
+.DS_Store
+/.idea
+db.sqlite3
+manage.py
